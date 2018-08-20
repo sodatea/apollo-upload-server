@@ -1,5 +1,15 @@
 # apollo-upload-server changelog
 
+## 5.0.1
+
+> First version of `@apollographql/apollo-upload-server`, to address
+> https://github.com/jaydenseric/apollo-upload-server/issues/103 and the
+> removal of Node.js 6 support, as discussed in
+> https://github.com/jaydenseric/apollo-upload-server/issues/109
+
+* Swap `@babel/runtime` with `@babel/runtime-corejs2`, and change to latest
+  Babel release candidate, `@babel/*-rc.1`.
+
 ## 5.0.0
 
 * Updated dependencies.
