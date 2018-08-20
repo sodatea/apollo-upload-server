@@ -1,5 +1,9 @@
 # apollo-upload-server changelog
 
+## 5.0.2
+
+* Republish with module (`.mjs`) support as previously done by origin repo.
+
 ## 5.0.1
 
 > First version of `@apollographql/apollo-upload-server`, to address
