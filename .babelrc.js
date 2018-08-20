@@ -19,7 +19,7 @@ module.exports = {
     [
       '@babel/transform-runtime',
       {
-        polyfill: false,
+        corejs: 2,
         regenerator: false
       }
     ]
