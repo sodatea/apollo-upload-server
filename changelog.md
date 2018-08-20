@@ -1,8 +1,12 @@
 # apollo-upload-server changelog
 
-## 5.0.2
+## 5.0.3
 
 * Republish with module (`.mjs`) support as previously done by origin repo.
+
+## 5.0.2
+
+* Incorrectly published! Do not use!
 
 ## 5.0.1
 
