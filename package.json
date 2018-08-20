@@ -1,16 +1,16 @@
 {
-  "name": "apollo-upload-server",
-  "version": "7.0.0",
-  "description": "Middleware and an Upload scalar to add support for GraphQL multipart requests (file uploads via queries and mutations) to various Node.js GraphQL servers.",
+  "name": "@apollographql/apollo-upload-server",
+  "version": "5.0.0",
+  "description":
+    "Enhances Apollo GraphQL Server for intuitive file uploads via GraphQL mutations.",
   "license": "MIT",
-  "author": {
-    "name": "Jayden Seric",
-    "email": "me@jaydenseric.com",
-    "url": "https://jaydenseric.com"
+  "author": "opensource@apollographql.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apollographql/apollo-upload-server.git"
   },
-  "repository": "github:jaydenseric/apollo-upload-server",
-  "homepage": "https://github.com/jaydenseric/apollo-upload-server#readme",
-  "bugs": "https://github.com/jaydenseric/apollo-upload-server/issues",
+  "homepage": "https://github.com/apollographql/apollo-upload-server#readme",
+  "bugs": "https://github.com/apollographql/apollo-upload-server/issues",
   "keywords": [
     "apollo",
     "server",
