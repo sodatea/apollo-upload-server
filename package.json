@@ -33,7 +33,7 @@
     "node": ">=8.5"
   },
   "peerDependencies": {
-    "graphql": "^0.13.1"
+    "graphql": "^0.13.1 || ^14.0.0"
   },
   "dependencies": {
     "busboy": "^0.2.14",
